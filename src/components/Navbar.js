@@ -1,4 +1,3 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
 
 export default function Navbar() {
@@ -20,6 +19,7 @@ export default function Navbar() {
                     <a
                         href="https://www.linkedin.com/in/samle007/"
                         target="_blank"
+                        rel="noopener noreferrer"
                         className="mr-5 hover:text-white"
                     >
                         LinkedIn
@@ -27,6 +27,7 @@ export default function Navbar() {
                     <a
                         href="https://github.com/pas-trop-de-zele"
                         target="_blank"
+                        rel="noopener noreferrer"
                         className="mr-5 hover:text-white"
                     >
                         Github
