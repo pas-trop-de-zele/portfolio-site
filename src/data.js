@@ -19,6 +19,7 @@ export const skills = [
     "Python",
     "C++",
     "SQL",
+    "Javascript",
     "DAX",
     "ReactJs",
     "NodeJs",
