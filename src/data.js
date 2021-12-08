@@ -1,3 +1,16 @@
+export const jobs = [
+    {
+        name: "Palantir",
+        title: "Software Engineer Intern",
+        duration: "Incoming Summer 2022",
+    },
+    {
+        name: "Intel",
+        title: "Software Engineer Intern",
+        duration: "Jan 2021 - August 2021",
+    },
+];
+
 export const projects = [
     {
         title: "The Little Maruko",
